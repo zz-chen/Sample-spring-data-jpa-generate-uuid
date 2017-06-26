@@ -1,0 +1,1 @@
+# Sample-spring-data-jpa-generate-uuid
